@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-What's up? I’m Ciro! Very happy to you here
+What's up? I’m Ciro! Very happy to see you here
 
 I'm very passionate about technology, characterized by curiosity and determination to solve problems.
 
